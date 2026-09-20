@@ -3,7 +3,7 @@
 > Turn Claude, Cursor, and other AI agents into your automated Fractional CFO. Audit financial spreadsheets, catch expense leaks, and project cashflow runway directly from your local machine — without uploading sensitive client data to third-party clouds.
 
 [![MCP Protocol](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io/)
-[![Early Access](https://img.shields.io/badge/Status-Public%20Beta-emerald.svg)](#early-access--beta)
+[![Early Access](https://img.shields.io/badge/Status-Public%20Beta-emerald.svg)](#-early-access--roadmap)
 
 ---
 
@@ -48,3 +48,18 @@ Add this configuration snippet to your `claude_desktop_config.json`:
     }
   }
 }
+```
+
+---
+
+## 📬 Early Access & Roadmap
+
+We are rolling out support for automated multi-currency reconciliation and direct accounting software export integrations.
+
+👉 **Want early access to the pre-release build or want to request an export integration (Xero/QuickBooks/Fortnox)?**  
+[**Join the Early Access Waiting List Here →**](https://tally.so/r/VLryMJ)
+
+---
+
+## 📄 License
+MIT License. Built for independent finance professionals and small business operators.
